@@ -1,0 +1,6 @@
+{
+  "name": "CTNS Logistics LLC",
+  "description": "Professional logistics and transportation company specializing in Box Truck and Cargo Van delivery services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
